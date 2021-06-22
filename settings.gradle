@@ -1,0 +1,2 @@
+rootProject.name = "MyAvatarV2"
+include ':app'
